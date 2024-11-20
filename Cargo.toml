@@ -1,0 +1,6 @@
+[package]
+name = "life_organizer"
+version = "0.1.0"
+authors = ["Piotr Gajak <piotrgajak02@gmail.com>"]
+description = "A tool to help organize and manage your daily life."
+license = "MIT"
