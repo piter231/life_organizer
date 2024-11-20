@@ -25,6 +25,11 @@
    cargo run
    ```
 
+### From Crates.io  
+You can also install **Life Organizer** directly via [Cargo](https://crates.io/crates/life_organizer):  
+```bash
+cargo install life_organizer
+```
 ---
 
 ## **Usage**
